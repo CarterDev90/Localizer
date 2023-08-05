@@ -1,0 +1,17 @@
+{
+  "name": "localizer",
+  "displayName": "Localizer",
+  "version": "1.0.0",
+  "unity": "2021.1",
+  "description": "Auto localizer",
+  "author": {
+    "name": "Carter",
+    "email": "Carterdev90@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+ "dependencies": {
+    "com.unity.textmeshpro": "1.0.0"
+  },
+  "license": "MIT",
+  "unityRelease": "0b5"
+}
